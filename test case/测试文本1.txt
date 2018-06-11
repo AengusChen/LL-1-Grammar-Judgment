@@ -1,0 +1,11 @@
+在输入文法时，用#空ε
+S→AB
+S→bC
+A→#
+A→b
+B→#
+B→aD
+C→AD
+C→b
+D→aS
+D→c
